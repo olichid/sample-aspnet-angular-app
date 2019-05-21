@@ -1,0 +1,14 @@
+/Users/heydaykk/Desktop/github/sample-aspnet-angular-app/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.deps.json
+/Users/heydaykk/Desktop/github/sample-aspnet-angular-app/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.runtimeconfig.json
+/Users/heydaykk/Desktop/github/sample-aspnet-angular-app/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.runtimeconfig.dev.json
+/Users/heydaykk/Desktop/github/sample-aspnet-angular-app/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.dll
+/Users/heydaykk/Desktop/github/sample-aspnet-angular-app/DatingApp.API/bin/Debug/netcoreapp2.1/DatingApp.API.pdb
+/Users/heydaykk/Desktop/github/sample-aspnet-angular-app/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.csprojAssemblyReference.cache
+/Users/heydaykk/Desktop/github/sample-aspnet-angular-app/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.csproj.CoreCompileInputs.cache
+/Users/heydaykk/Desktop/github/sample-aspnet-angular-app/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.RazorAssemblyInfo.cache
+/Users/heydaykk/Desktop/github/sample-aspnet-angular-app/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.RazorAssemblyInfo.cs
+/Users/heydaykk/Desktop/github/sample-aspnet-angular-app/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.AssemblyInfoInputs.cache
+/Users/heydaykk/Desktop/github/sample-aspnet-angular-app/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.AssemblyInfo.cs
+/Users/heydaykk/Desktop/github/sample-aspnet-angular-app/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.RazorTargetAssemblyInfo.cache
+/Users/heydaykk/Desktop/github/sample-aspnet-angular-app/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.dll
+/Users/heydaykk/Desktop/github/sample-aspnet-angular-app/DatingApp.API/obj/Debug/netcoreapp2.1/DatingApp.API.pdb
