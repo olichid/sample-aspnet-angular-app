@@ -11,7 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
-namespace sample_aspnet_angular_app
+namespace DatingApp.API
 {
     public class Startup
     {

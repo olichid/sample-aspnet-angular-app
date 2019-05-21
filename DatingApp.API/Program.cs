@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace sample_aspnet_angular_app
+namespace DatingApp.API
 {
     public class Program
     {
